@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @MHSantonu
-- 👀 I’m interested in Development 
+- 👀 I’m interested in Development. 
 - 🌱 I’m currently learning what I should know!
 - 💞️ I’m looking to collaborate on laravel projects.
-- 📫 How to reach me mhsantonu@yahoo.com
+- 📫 How to reach me mhsantonu@gmail.com
 
 <!---
 MHSantonu/MHSantonu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
